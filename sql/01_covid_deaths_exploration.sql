@@ -1,6 +1,6 @@
 /*
   COVID-19 Data Exploration (Deaths / Cases)
-  Author: <your-name>
+  Author: Kerkeni Amir
   Platform: Microsoft SQL Server (T-SQL)
   Database: PortfolioProject
   Tables:
